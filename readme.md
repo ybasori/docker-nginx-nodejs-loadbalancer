@@ -41,7 +41,7 @@ $ ~/docker-nginx-nodejs-loadbalancer/nodejs# npm install
 <pre>
 $ ~/docker-nginx-nodejs-loadbalancer# docker-compose up
 </pre>
-<p>Run http://localhost:5000 or http://ip_address:5000 on your favorite browser</p>
+<p>Run http://localhost:5000 or http://ip_address:5000 on your favorite browser and reload it, you'll see the changes.</p>
 
 <h2>If you want to have one nodejs in your docker-compose.yaml but still wants to run more than one</h2>
 
